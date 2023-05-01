@@ -1,2 +1,2 @@
 # Networking-Utils-Python
-My first two python projects, from my Networking class. 
+A web server and a traceroute utility, built in python. The traceroute also includes a ping utility that can be extracted with fairly little effort.
